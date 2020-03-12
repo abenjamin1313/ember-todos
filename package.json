@@ -53,5 +53,10 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "moment": "^2.24.0",
+    "showdown": "^1.9.1"
   }
 }
